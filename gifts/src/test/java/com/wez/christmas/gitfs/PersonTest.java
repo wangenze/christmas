@@ -3,8 +3,8 @@ package com.wez.christmas.gitfs;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.google.common.collect.Lists;
-import javafx.util.Pair;
 import lombok.Cleanup;
+import org.apache.commons.lang3.tuple.Pair;
 import org.junit.Test;
 
 import java.io.FileInputStream;
